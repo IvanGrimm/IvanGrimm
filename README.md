@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [ivangrimm.dev/blog](ivangrimm.dev/blog)
 
-- 📫 How to reach me **info@ivangrimm.dev**
+- 📫 How to reach me **work@ivangrimm.dev**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
