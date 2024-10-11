@@ -3,21 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivangrimm&label=Profile%20views&color=0e75b6&style=flat" alt="ivangrimm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivangrimm&theme=dracula" alt="ivangrimm" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ivangrimmdev" target="blank"><img src="https://img.shields.io/twitter/follow/ivangrimmdev?logo=twitter&style=for-the-badge" alt="ivangrimmdev" /></a> </p>
-
 - 🌱 I’m currently learning **React, Vue, Rust, Go, GSAP**
-
-- 👨‍💻 All of my projects are available at [ivangrimm.dev/portfolio](ivangrimm.dev/portfolio)
 
 - 📝 I regularly write articles on [ivangrimm.dev/blog](ivangrimm.dev/blog)
 
 - 📫 How to reach me **work@ivangrimm.dev**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
