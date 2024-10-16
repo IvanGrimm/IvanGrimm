@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Grimm</h1>
 <h3 align="center">A developer from Berlin, Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivangrimm&label=Profile%20views&color=0e75b6&style=flat" alt="ivangrimm" /> </p>
-
 - 🌱 I’m currently learning **React, Vue, Rust, Go, GSAP**
 
 - 📝 I regularly write articles on [ivangrimm.dev/blog](ivangrimm.dev/blog)
